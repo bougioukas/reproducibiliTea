@@ -1,7 +1,7 @@
 ---
 
 jcid: auth
-title: AUTH
+title: Thessaloniki (AUTH)
 host-organisation: Aristotle University of Thessaloniki
 host-org-url: 
 osf: v4yxt
